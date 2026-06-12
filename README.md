@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/only-our-hearts-beating/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Only Our Hearts Beating](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/only-our-hearts-beating/) |
+| **Get License** | [Obtain a Music License for Only Our Hearts Beating](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/only-our-hearts-beating/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `f689a1d673fd2a4805e9d0b6ae5cce8ab45e1bc54f033902b4129b76fcb26075` |
 | **Timestamp** | June 13, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

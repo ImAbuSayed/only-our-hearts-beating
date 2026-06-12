@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Only Our Hearts Beating
+
+This log tracks the cryptographic history and versioning for the song **Only Our Hearts Beating** (only-our-hearts-beating).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-13T02:13:17.730690 | `v1` | `f689a1d673fd2a4805e9d0b6ae5cce8ab45e1bc54f033902b4129b76fcb26075` | `8fa9b761ee751138fa21205afd68c3e66c750c03e9c5a2a2c5890198bc006e0f` | `2026-06-13_only-our-hearts-beating-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
