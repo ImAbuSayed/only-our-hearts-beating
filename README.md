@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/only-our-hearts-beating/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Only Our Hearts Beating](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/only-our-hearts-beating/) |
+| **Get License** | [Music Rights & Licensing for Only Our Hearts Beating](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/only-our-hearts-beating/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the embers burning in the dark
+> Just you and I underneath the spark
+> Your fingers trace the edges of the night
+> We let the passion pull us to the light
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
